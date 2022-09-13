@@ -1,0 +1,41 @@
+    body {
+        background-color: rgb(214, 214, 214);
+    }
+    
+    .container {
+        padding: 10px;
+        border-radius: 10px;
+    }
+    
+    .margenSuperior {
+        margin-top: 40px;
+    }
+    
+    .anchoContainer {
+        width: 400px;
+    }
+    
+    .sombra {
+        box-shadow: -10px 10px 15px;
+    }
+    
+    h5 {
+        font-family: Roboto;
+    }
+    
+    .fondoTomato {
+        background-color: tomato;
+    }
+    
+    .altura {
+        height: 80px;
+    }
+    
+    h2 {
+        font-family: 'Roboto', sans-serif;
+        color: rgb(47, 47, 47);
+    }
+    
+    .fotoAltura {
+        width: 400px;
+    }
