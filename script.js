@@ -47,8 +47,8 @@ function calcular() {
         if (metros <= 1) {
             document.getElementById("imagenes").innerHTML = `<img src=" https://media.gettyimages.com/photos/pau-gasol-of-the-los-angeles-lakers-poses-for-a-portrait-prior-to-the-picture-id80057159" alt="" class="fotoAltura">`;
 
-        } else if (metros > 1 && metros <= 2) {
-            document.getElementById("imagenes").innerHTML = `<img src="2.webp" alt="" class="fotoAltura">`;
+        } else if ( metros >= 2) {
+            document.getElementById("imagenes").innerHTML = `<img src="www.laguiadelvaron.com/wp-content/uploads/2021/09/Portada-post-FB-Las-10-personas-mas-altas-de-la-historia-que-podrian-haber-visto-a-los-basquetbolistas-como-hormiguitas.png" alt="" class="fotoAltura">`;
         } else {
 
             document.getElementById("imagenes").innerHTML = `<img src="3.webp" alt="" class="fotoAltura">`;
